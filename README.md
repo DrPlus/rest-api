@@ -1,14 +1,12 @@
 # rest-api
 https://spring.io/guides/tutorials/bookmarks/
 
-готово
-
+#готово
 api/login						                      информация о текущем пользователе
 api/node/get						                  информация о текущем узле
 api/node/init					                    ??? сабмит формы с ввода адреса конфигурации ???
 
-TODO
-
+#TODO
 api/configurations/create					        создание конфигурации
 api/configurations/activate				        установка конфигурации
 api/configurations/list					          список всех конфигураций
