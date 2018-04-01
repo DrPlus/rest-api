@@ -1,0 +1,9 @@
+package rb.future.sysconf.model;
+
+public enum NodeRight {
+	ADMIN,
+	INIT_NODE_CONFIGURATION,
+	CREATE_CONFIGURATION,
+	CREATE_SYSTEM_ALERT,
+	CONFIGURATION_PARAMETER
+}

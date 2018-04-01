@@ -1,0 +1,8 @@
+package rb.future.sysconf.model;
+
+public enum UserRight {
+	INIT_NODE_CONFIGURATION,
+	CREATE_CONFIGURATION,
+	CREATE_SYSTEM_ALERT,
+	CONFIGURATION_PARAMETER
+}
